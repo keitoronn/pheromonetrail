@@ -1,0 +1,16 @@
+{
+    "tau": 0.1,
+    "dim": 2,
+    "T": 10000,
+    "NArray": [200],
+    "vmaxArray": [10],
+    "WrepArray": [100],
+    "gravArray": [50],
+    "WattxxArray": [20],
+    "WalixxArray": [20],
+    "RArray": [50],
+    "WattyyRange": [-4, 4],
+    "WattyyDiv": 41,
+    "WaliyyRange": [-4, 4],
+    "WaliyyDiv": 41
+}
